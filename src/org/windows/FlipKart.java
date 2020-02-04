@@ -26,6 +26,10 @@ System.setProperty("webdriver.chrome.driver", "D:\\java and eclipse 32 bit\\java
 		
 	  driver.get("https://www.flipkart.com/");
 	  
+	  // hai //
+	  
+	  System.out.println("hai");
+	  
 	  // to find the web element for search //
 	  
 	  Thread.sleep(5000);
